@@ -4,7 +4,7 @@ from itertools import count
 
 if __name__ == "__main__":
     import sys
-    count = len(sys.argv) -1
+    count = len(sys.argv) - 1
     if count == 0:
         print("0 arguments.")
     elif count == 1:
