@@ -1,3 +1,4 @@
 #!/usr/bin/node
-const myVar = 'Javascript is amazing';
+'use strict';
+const myVar = 'JavaScript is amazing';
 console.log(myVar);
